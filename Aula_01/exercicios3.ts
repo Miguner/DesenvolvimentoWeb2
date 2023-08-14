@@ -1,4 +1,4 @@
-
+//Faça um programa que receba três notas, calcule e mostre a média ponderada entre elas
 
 namespace exercicios3 {
     let nota1: number, nota2: number, nota3: number;
